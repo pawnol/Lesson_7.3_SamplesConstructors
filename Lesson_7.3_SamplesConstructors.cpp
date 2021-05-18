@@ -138,7 +138,7 @@ public:
     }
 
     /*
-    This is a function! We will discuss this in the next lesson.
+    This is a method! We will discuss this in the next lesson.
     */
     void printCards()
     {
